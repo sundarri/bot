@@ -12,22 +12,22 @@
     "env": {
         "AS_COPY": {
             "description": "set this to true to forward message as copy",
-            "value": "False" 
+            "value": "True" 
         },
         "API_HASH": {
-            "description": "Get this value from https://my.telegram.org",
+            "description": "82a353e4cf209ae679b537c1fff17c9c",
             "value": ""
         },
         "API_ID": {
-            "description": "Get this value from https://my.telegram.org",
+            "description": "21562655",
             "value": ""
         },
         "BOT_TOKEN": {
-            "description": "Your bot token, as a string. Get this from @BotFather",
+            "description": "6820240200:AAGBVWRJJyn82CYv8R6mzJFQtPm8APKCjjU",
             "value": ""
         },
         "CHANNEL_ID": {
-            "description": "your channel id in format -10023352648:-100655379 (from channel id:to channel id) if you want to give more channels seperate them with white space",
+            "description": "-1991418478:-2077454148",
             "value": ""
         }
     },
